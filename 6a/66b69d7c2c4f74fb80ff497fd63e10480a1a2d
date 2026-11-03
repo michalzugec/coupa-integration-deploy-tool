@@ -1,0 +1,21 @@
+helpers.py
+  s_2a18a98ed33fa5::t_81802d5b60b76d 70-146,155-156,183-188
+test_coupa_credentials.py
+  s_2a18a98ed33fa5::t_5f0290e1cb8834 1-120
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "6a66b69d7c2c4f74fb80ff497fd63e10480a1a2d",
+  "prompts": {},
+  "sessions": {
+    "s_2a18a98ed33fa5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "0ca4a78d-801c-4d68-8194-3a998989cd36",
+        "model": "unknown"
+      },
+      "human_author": "Michal Zugec <michal.zugec@rossum.ai>"
+    }
+  }
+}
